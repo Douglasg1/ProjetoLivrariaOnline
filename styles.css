@@ -1,0 +1,30 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.container {
+    display:inline-block;
+    width: 150px;
+    margin: 10px;
+    border: 10px;
+}
+
+select{
+    font-size: 20px;
+}
+.imgdecabecalho{
+    display:inline-block;
+    width: 1190px;
+    text-align:left;
+    object-fit: cover;
+    height:  150px;
+    margin: 10px;
+    border: 100px;
+    border-color: blue;
+}
+label{
+    font-size: 24px;
+}
+a{
+    cursor:context-menu;
+}
